@@ -1,5 +1,5 @@
 export interface DataDto {
   id: number;
-  type: string;
+  // type: string;
   message: string;
 }
