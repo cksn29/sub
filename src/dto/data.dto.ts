@@ -5,4 +5,5 @@ export interface DataDto {
   sub: boolean;
   sub2: boolean;
   super2: boolean;
+  super3: boolean;
 }
