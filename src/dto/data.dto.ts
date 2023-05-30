@@ -3,4 +3,5 @@ export interface DataDto {
   type: string;
   message: string;
   sub: boolean;
+  sub2: boolean;
 }
